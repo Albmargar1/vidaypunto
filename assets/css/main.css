@@ -1843,16 +1843,16 @@ input, select, textarea {
 			background-color: transparent;
 			border: solid 1px #c9c9c9;
 			border-radius: 4px;
-			width: 2.65em;
-			height: 2.65em;
+			width: 4.65em;
+			height: 4.65em;
 			display: inline-block;
 			text-align: center;
-			line-height: 2.65em;
+			line-height: 4.65em;
 			color: inherit;
 		}
 
 			.icon.style2:before {
-				font-size: 1.1em;
+				font-size: 2.6em;
 			}
 
 			.icon.style2:hover {
@@ -2706,27 +2706,27 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #f2849e00;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #7ecaf600;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #7bd0c100;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #c75b9b00;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #ae85ca00;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #8499e700;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
