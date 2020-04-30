@@ -2827,6 +2827,12 @@ input, select, textarea {
 
 /* Header */
 
+	.headerTitle
+	{
+		font-size: 2em;
+	}
+
+
 	#header {
 		padding: 0.8em 0 0.1em 0 ;
 	}
