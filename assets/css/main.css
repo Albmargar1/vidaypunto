@@ -2865,9 +2865,7 @@ input, select, textarea {
 				}
 
 		#header nav {
-			position: absolute;
-			right: 1em;
-			top: 5.7em;
+			float: right;
 			z-index: 10000;
 		}
 
