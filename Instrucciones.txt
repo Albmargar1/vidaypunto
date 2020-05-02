@@ -1,0 +1,7 @@
+Añadir un post:
+
+- Index.html:
+	- Buscar la palabra "Instrucciones", y seguidlas.
+	
+- template.html (o el nombre que le hayáis puesto)
+	- Buscar la palabra "Instrucciones", y seguidlas.
