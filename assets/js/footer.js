@@ -29,7 +29,7 @@ document.write('        <li><a href="mailto:infovidaypunto@gmail.com" class="ico
 document.write('      </ul>');
 document.write('    </section>');
 document.write('    <ul class="copyright">');
-document.write('      <li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>');
+document.write('      <li>Vida y Punto</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>');
 document.write('    </ul>');
 document.write('  </div>');
 document.write('</footer>');
