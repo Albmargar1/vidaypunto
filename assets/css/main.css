@@ -148,9 +148,9 @@ input, select, textarea {
 		color: #2180E5;
 	}
 
-	.textBold
+	a.textBold
 {
-	text-weight: bold;
+	font-weight: bold;
 }
 
 
