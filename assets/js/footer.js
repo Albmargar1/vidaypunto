@@ -25,6 +25,7 @@ document.write('    <section>');
 document.write('      <h2>Contacto</h2>');
 document.write('      <ul class="icons">');
 document.write('        <li><a href="https://www.instagram.com/vidaypuntox/"  target="_blank" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>');
+document.write('        <li><a href="https://www.youtube.com/channel/UCa_FfasIBSFg5NaR-Nqh3Uw" target="_blank" class="icon brands style2 fa-youtube"><span class="label">Youtube</span></a></li>');
 document.write('        <li><a href="mailto:infovidaypunto@gmail.com"  class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>');
 document.write('      </ul>');
 document.write('    </section>');

@@ -3151,7 +3151,7 @@ input, select, textarea {
 	body.is-menu-visible #wrapper {
 		pointer-events: none;
 		cursor: default;
-		opacity: 0.25;
+		opacity: 1.0;
 	}
 
 	body.is-menu-visible #menu {
